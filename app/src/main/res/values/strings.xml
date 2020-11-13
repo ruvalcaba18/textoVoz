@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">texoVoz</string>
+    <string name="inserte_algun_texto">Inserte algun Texto</string>
+    <string name="pitch">Pitch</string>
+    <string name="velocidad_de_habla">Velocidad de Habla</string>
+    <string name="imgDescription">Background Picture</string>
+</resources>
